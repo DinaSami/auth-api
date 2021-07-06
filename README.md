@@ -8,11 +8,11 @@
 
 ### Github actions
 
-[actions]()
+[actions](https://github.com/DinaSami/auth-api/actions)
 
 ### pull request
 
-[PR]()
+[PR](https://github.com/DinaSami/auth-api/pulls)
 
 ## Drawings
 
